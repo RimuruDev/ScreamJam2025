@@ -7,6 +7,7 @@
 
 # NOTE:
 Собрали Webgl build 01:32 (+4 Samara)
+Uplad promo: 17.10.2025 12:30-13:00
 
 Logo:
 
