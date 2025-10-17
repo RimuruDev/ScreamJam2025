@@ -11,3 +11,8 @@
 Logo:
 
 <img width="512" height="512" alt="game-logo" src="https://github.com/user-attachments/assets/4fa97611-1f42-4f6c-9301-aca60d24fcc9" />
+
+
+# Play game
+- WEBGL: https://rimurudev.itch.io/ghost-nurse
+- Android: See release note
